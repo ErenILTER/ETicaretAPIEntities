@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJLSPb5veDSFe96SLD+EJ1EzNnsBfhoo6HT0b2OalTFApvxYkK7X/NaOZiu4fZ+IEwdM38NBWsD8UumNQT8jnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rzgel\\OneDrive\\Masaüstü\\E-TicaretAPI\\E-TicaretAPI\\Core\\E-TicaretAPI.Domain\\E-TicaretAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\rzgel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
